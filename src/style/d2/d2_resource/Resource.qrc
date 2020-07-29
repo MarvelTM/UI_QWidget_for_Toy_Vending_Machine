@@ -1,0 +1,119 @@
+<RCC>
+    <qresource prefix="/desing2">
+        <file>background/call-background.png</file>
+        <file>background/master-backgrounds.png</file>
+        <file>background/money-background.png</file>
+        <file>buttons/arrows/arrow-left-normal.png</file>
+        <file>buttons/arrows/arrow-left-pressed.png</file>
+        <file>buttons/arrows/arrow-right-normal.png</file>
+        <file>buttons/arrows/arrow-right-pressed.png</file>
+        <file>buttons/back buttons/back-button-normal.png</file>
+        <file>buttons/back buttons/back-button-pressed.png</file>
+        <file>buttons/back buttons/back-text-gradient.png</file>
+        <file>buttons/buy another toy buttons/buy-another-toy-button-normal.png</file>
+        <file>buttons/buy another toy buttons/buy-another-toy-button-pressed.png</file>
+        <file>buttons/buy buttons/buy-button-normal.png</file>
+        <file>buttons/buy buttons/buy-button-pressed.png</file>
+        <file>buttons/checkmarks/checkmark-empty.png</file>
+        <file>buttons/checkmarks/checkmark-fill.png</file>
+        <file>buttons/close buttons/big/close-button-normal-big.png</file>
+        <file>buttons/close buttons/big/close-button-pressed-big.png</file>
+        <file>buttons/close buttons/small/close-button-normal-small.png</file>
+        <file>buttons/close buttons/small/close-button-pressed-small.png</file>
+        <file>buttons/help button/help-button.png</file>
+        <file>buttons/pay card buttons/pay-card-button-normal.png</file>
+        <file>buttons/pay card buttons/pay-card-button-pressed.png</file>
+        <file>buttons/pay cash buttons/pay-cash-button-normal.png</file>
+        <file>buttons/pay cash buttons/pay-cash-button-pressed.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-1.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-10.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-11.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-12.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-2.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-3.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-4.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-5.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-6.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-7.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-8.png</file>
+        <file>buttons/product buttons/numbers/color/product-number-color-9.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-1.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-10.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-11.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-12.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-2.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-3.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-4.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-5.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-6.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-7.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-8.png</file>
+        <file>buttons/product buttons/numbers/disabled/product-number-disabled-9.png</file>
+        <file>buttons/product buttons/no-product-illustration.png</file>
+        <file>buttons/product buttons/product-button-background-normal.png</file>
+        <file>buttons/product buttons/product-button-background-pressed.png</file>
+        <file>buttons/send buttons/send-button-normal.png</file>
+        <file>buttons/send buttons/send-button-pressed.png</file>
+        <file>buttons/send to phone buttons/send-to-phone-button-normal.png</file>
+        <file>buttons/send to phone buttons/send-to-phone-button-pressed.png</file>
+        <file>buttons/start screen buttons/coins-normal-button.png</file>
+        <file>buttons/start screen buttons/coins-normal-pressed.png</file>
+        <file>buttons/start screen buttons/discount-normal-button.png</file>
+        <file>buttons/start screen buttons/discount-normal-pressed.png</file>
+        <file>buttons/start screen buttons/phone-normal-button.png</file>
+        <file>buttons/start screen buttons/phone-normal-pressed.png</file>
+        <file>buttons/take change buttons/take-change-button-normal.png</file>
+        <file>buttons/take change buttons/take-change-button-pressed.png</file>
+        <file>buttons/take coins buttons/take-coins-button-normal.png</file>
+        <file>buttons/take coins buttons/take-coins-button-pressed.png</file>
+        <file>buttons/to pay buttons/to-pay-button-normal.png</file>
+        <file>buttons/to pay buttons/to-pay-button-pressed.png</file>
+        <file>buttons/video play buttons/big/big-play-button-normal.png</file>
+        <file>buttons/video play buttons/big/big-play-button-pressed.png</file>
+        <file>buttons/video play buttons/small/small-play-button-normal.png</file>
+        <file>buttons/video play buttons/small/small-play-button-pressed.png</file>
+        <file>fonts/PT Sans/PT_Sans.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Bold.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Bold_Italic.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Caption.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Caption_Bold.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Italic.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Narrow.ttf</file>
+        <file>fonts/PT Sans/PT_Sans_Narrow_Bold.ttf</file>
+        <file>forms/input-phone-form.png</file>
+        <file>forms/problem-frame.png</file>
+        <file>illustrations/100-rubles.png</file>
+        <file>illustrations/banking-card.png</file>
+        <file>illustrations/coin.png</file>
+        <file>illustrations/no-change-illustration.png</file>
+        <file>illustrations/no-toy-illustration.png</file>
+        <file>illustrations/take-change-illustration.png</file>
+        <file>illustrations/thanks-helicopter-illustration.png</file>
+        <file>illustrations/toy-stuck-illustration.png</file>
+        <file>lables/hit.png</file>
+        <file>lables/new.png</file>
+        <file>lables/sale.png</file>
+        <file>logo/.DS_Store</file>
+        <file>logo/logo_big.png</file>
+        <file>text/.DS_Store</file>
+        <file>text/close-video-text-gradient.png</file>
+        <file>text/no-toys-text-gradient.png</file>
+        <file>text/rating-text-gradient.png</file>
+        <file>text/see-video-text-gradient.png</file>
+        <file>text/select-toys-text-shadow.png</file>
+        <file>text/thanks-text-gradient.png</file>
+        <file>toy/Slime_ninja.png</file>
+        <file>video/productVideo.png</file>
+        <file>buttons/arrows/arrow-left-disable.png</file>
+        <file>buttons/arrows/arrow-right-disable.png</file>
+        <file>qr_code/QRCode.png</file>
+        <file>background/number-background.png</file>
+        <file>illustrations/rating smiles/rating-smile-bad.png</file>
+        <file>illustrations/rating smiles/rating-smile-bad-grey.png</file>
+        <file>illustrations/rating smiles/rating-smile-good.png</file>
+        <file>illustrations/rating smiles/rating-smile-good-grey.png</file>
+        <file>illustrations/rating smiles/rating-smile-excellent.png</file>
+        <file>illustrations/rating smiles/rating-smile-excellent-grey.png</file>
+        <file>background/number-background - disable.png</file>
+    </qresource>
+</RCC>
